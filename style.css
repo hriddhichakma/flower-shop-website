@@ -1,0 +1,48 @@
+body{
+    font-family: 'Lato';
+}
+
+.head-title {
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+    margin-top: 190px;
+    margin-bottom: 32px;
+    margin-left: 240px;
+}
+
+.head-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 240px;
+    margin-bottom: 32px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 20px 43px 20px 43px;
+    margin-left: 240px;
+    
+
+}
+
+
+header {
+    background: rgba(229, 84, 115, 0.10);
+    border: 0;
+}
+.head-section{
+    display: flex;
+    gap: 100px;
+}
+.profile-pic{
+    margin-top:70px;
+    width: 450px;
+    height: 550px;
+}
