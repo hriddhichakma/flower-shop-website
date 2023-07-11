@@ -48,6 +48,16 @@ header {
 }
 
 .section-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 100px;
+
+}
+
+.section-title-no2 {
     text-align: center;
     color: #272727;
     font-family: Lato;
@@ -201,7 +211,16 @@ header {
 .pink {
     color: #E55473;
 }
+.sign-up{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px 30px 10px 30px;
+    margin-left: 50px;
 
+}
 .discount-photo {
     width: 200;
     height: 300px;
@@ -310,21 +329,67 @@ header {
     font-weight: 400;
     line-height: 30px;
 }
-.btn{
+
+.btn {
     border-radius: 8px;
     background: #E55473;
     color: #FFF;
     font-size: 15px;
     font-weight: 700;
     padding: 10px 30px 10px 30px;
-    
+
 }
-.form-div{
+
+.form-div {
     align-items: center;
     margin-top: 20px;
     text-align: center;
 }
-.button-div{
-    text-align: center;
 
+.button-div {
+    text-align: center;
+}
+
+.footer-title {
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+   
+}
+
+.small {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.footer-section {
+    background: #111010;
+    width: 1500px;
+    height: 500px;
+}
+
+.white {
+    color: #FFF;
+}
+
+.small {
+    margin-left: 600px;
 }
