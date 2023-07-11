@@ -1,6 +1,4 @@
-body{
-    font-family: 'Lato';
-}
+body {}
 
 .head-title {
     color: #272727;
@@ -28,7 +26,7 @@ body{
     font-weight: 700;
     padding: 20px 43px 20px 43px;
     margin-left: 240px;
-    
+
 
 }
 
@@ -37,12 +35,127 @@ header {
     background: rgba(229, 84, 115, 0.10);
     border: 0;
 }
-.head-section{
+
+.head-section {
     display: flex;
     gap: 100px;
 }
-.profile-pic{
-    margin-top:70px;
+
+.profile-pic {
+    margin-top: 70px;
     width: 450px;
     height: 550px;
+}
+
+.section-title {
+    text-align: center;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 150px;
+    margin-right: 600px;
+    margin-left: 500px;
+
+}
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 10px;
+}
+
+.three-flowers {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 40px;
+}
+
+.flower-1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 350px;
+    height: 400px;
+    margin-left: 210px;
+}
+
+.flower-1-photo {
+    width: 240px;
+    height: 320px;
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+.flower-2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 350px;
+    height: 400px;
+}
+
+.flower-2-photo {
+    width: 280px;
+    height: 330px;
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.flower-3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 350px;
+    height: 400px
+}
+
+.flower-3-photo {
+    width: 260px;
+    height: 350px;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.caption {
+    text-align: center;
+}
+
+.benefits {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1090px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 210px;
+    display: flex;
+    justify-content: space-between;
+}
+.benefit-1{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.benefit-2{
+    margin-top: 50px;
+}
+.benefit-3{
+    margin-top: 50px;
+    margin-right: 100px;
+}
+.info{
+   text-align: center;
+}
+.benefit-1-photo{
+    margin-left: 50px;
+}
+.benefit-2-photo{
+    margin-left: 60px;
+}
+.benefit-3-photo{
+    margin-left: 60px;
 }
