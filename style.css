@@ -25,6 +25,7 @@ body {}
     font-size: 15px;
     font-weight: 700;
     padding: 10px 30px 10px 30px;
+    border: 0;
     margin-left: 240px;
 
 
@@ -211,16 +212,19 @@ header {
 .pink {
     color: #E55473;
 }
-.sign-up{
+
+.sign-up {
     border-radius: 8px;
     background: #E55473;
     color: #FFF;
     font-size: 15px;
     font-weight: 700;
     padding: 10px 30px 10px 30px;
+    border: 0;
     margin-left: 50px;
 
 }
+
 .discount-photo {
     width: 200;
     height: 300px;
@@ -336,6 +340,7 @@ header {
     color: #FFF;
     font-size: 15px;
     font-weight: 700;
+    border: 0;
     padding: 10px 30px 10px 30px;
 
 }
@@ -348,6 +353,49 @@ header {
 
 .button-div {
     text-align: center;
+}
+
+.bonus-section {
+    height: 700px;
+    width: 1600px;
+    background-color: burlywood;
+    border: 0;
+    margin-top: 40px;
+    background-image: url('images/Flower Asset/pexels-valeria-boltneva-74512.jpg');
+    background-size: 700px;
+    background-repeat: no-repeat;
+
+}
+
+.bonus-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-left: 900px;
+    margin-top: 10px;
+}
+
+.bonus-button {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px 30px 10px 30px;
+    margin-left: 950px;
+    border: 0;
+}
+
+.bonus-title {
+    margin-left: 800px;
+    padding-top: 100px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 65px;
+    font-weight: 800;
+    margin-top: 80px;
 }
 
 .footer-title {
@@ -367,8 +415,8 @@ header {
     font-family: Lato;
     font-size: 18px;
     font-weight: 400;
-    line-height: 30px;
-   
+    margin-top: 10px;
+
 }
 
 .small {
