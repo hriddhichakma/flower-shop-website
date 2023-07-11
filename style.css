@@ -22,9 +22,9 @@ body {}
     border-radius: 8px;
     background: #E55473;
     color: #FFF;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 700;
-    padding: 20px 43px 20px 43px;
+    padding: 10px 30px 10px 30px;
     margin-left: 240px;
 
 
@@ -55,7 +55,6 @@ header {
     font-weight: 800;
     margin-top: 150px;
     margin-right: 600px;
-    margin-left: 500px;
 
 }
 
@@ -136,26 +135,196 @@ header {
     display: flex;
     justify-content: space-between;
 }
-.benefit-1{
+
+.benefit-1 {
     margin-left: 100px;
     margin-top: 50px;
 }
-.benefit-2{
+
+.benefit-2 {
     margin-top: 50px;
 }
-.benefit-3{
+
+.benefit-3 {
     margin-top: 50px;
     margin-right: 100px;
 }
-.info{
-   text-align: center;
+
+.info {
+    text-align: center;
 }
-.benefit-1-photo{
+
+.benefit-1-photo {
     margin-left: 50px;
 }
-.benefit-2-photo{
+
+.benefit-2-photo {
     margin-left: 60px;
 }
-.benefit-3-photo{
+
+.benefit-3-photo {
     margin-left: 60px;
+}
+
+.sale-section {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1922px;
+    height: 350px;
+    margin-top: 100px;
+    display: flex;
+}
+
+.sale-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.sale-primary {
+    padding-top: 50px;
+    padding-left: 200px;
+
+}
+
+.sale-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 0%;
+
+}
+
+.pink {
+    color: #E55473;
+}
+
+.discount-photo {
+    width: 200;
+    height: 300px;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+.sale-span {
+    padding-left: 80px;
+}
+
+.instagram {
+    width: 1500px;
+}
+
+.insta-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 70px;
+
+}
+
+.insta-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 5px;
+}
+
+.insta-images-class {
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+
+.insta-images {
+    padding: 10px;
+}
+
+.insta-image-1 {
+    width: 260px;
+    height: 300px;
+}
+
+.insta-image-2 {
+    width: 260px;
+    height: 300px;
+}
+
+.insta-image-3 {
+    width: 260px;
+    height: 300px;
+}
+
+.insta-image-4 {
+    width: 260px;
+    height: 300px;
+}
+
+.detail-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.detail-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.section {
+    background-image: url('images/Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1100px;
+    height: 500px;
+    margin-left: 210px;
+}
+
+.detail-title {
+    padding-top: 100px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.detail-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.btn{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px 30px 10px 30px;
+    
+}
+.form-div{
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+}
+.button-div{
+    text-align: center;
+
 }
